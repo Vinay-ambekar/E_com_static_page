@@ -1,0 +1,1 @@
+# E_com_static_page
