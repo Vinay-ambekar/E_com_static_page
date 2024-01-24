@@ -891,6 +891,10 @@ header{
 
 }
 /* popular categories */
+.new-relase{
+    margin: 80px;
+    margin-bottom: 0;
+}
 .left-right-icons{
     display: none;
 }
@@ -921,9 +925,9 @@ header{
 .left-card,.righ-card{
     margin-right: 126px;
     scale: 0.9;
-    
-    
 }
+    
+    
 /* hot relase */
 .Hot-release-and-others ul{
     display: grid;
